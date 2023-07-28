@@ -109,3 +109,14 @@ body{
 .thirdsection-rightdiv .p2{
     margin: 15px 0;
 }
+footer{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px 0;
+    background: var(--main-color);
+    color: var(--white-color);
+}
+
+.iconholder i{
+    margin: 0 5px;
+}

@@ -40,6 +40,16 @@
         margin-bottom: 30px;
     }
 
+    /* footer section starts her */
+
+    footer{
+        flex-direction: column;
+        text-align: center;
+    }
+    .iconholder{
+        margin-top: 10px;
+    }
+
 
 
 }
