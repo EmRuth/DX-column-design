@@ -21,12 +21,25 @@
         margin: 0 0 20px 0;
     }
     /*SECOND SECTION STARTS HERE  */
-
+    
     .second-section{
         flex-direction: column;
-
+        
     }
     .secondsection-rightdiv{
         margin: 30px 0 0 0;
     }
+    /*THIRD SECTION STARTS HERE  */
+
+    .third-section{
+        flex-direction: column-reverse;
+        align-items: center;
+
+    }
+    .thirdsection-rightdiv{
+        margin-bottom: 30px;
+    }
+
+
+
 }
