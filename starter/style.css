@@ -127,4 +127,10 @@ footer{
 
 .iconholder i{
     margin: 0 5px;
+    border: 1.5px solid white;
+    padding: 6px;
+    border-radius: 50%;
+}
+.iconholder a{
+    color: white;
 }
